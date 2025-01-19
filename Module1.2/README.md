@@ -1,6 +1,6 @@
 # High-Performance Computing (HPC) Quick Reference Guide
 
-## Basic Guide (Helpful when beginning assignments)
+## Basic Guide (helpful when beginning assignments)
 - **Login Node (Head Node):**
   - Upon logging into the cluster, you are on the login node (or head node).
   - You can submit jobs to the queue from the login node but **do not run jobs directly on the login node**. High memory or compute-intensive jobs must be run on compute nodes.
